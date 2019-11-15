@@ -1,5 +1,7 @@
 ### 忘年会のBINGOゲームの待機画面用に描いたトトロ
 
+![ttr_may_down](https://user-images.githubusercontent.com/39142850/68921591-94357980-07bc-11ea-8e0a-a8a8798f7773.gif)
+
 - [**ttr_may.gif**](https://github.com/aocattleya/Totoro_Layer/blob/master/ttr_may.gif)
 
 メイが足をパタパタさせるアニメーション
